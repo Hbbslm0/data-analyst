@@ -1,6 +1,7 @@
-pandas
 numpy
+pandas
 matplotlib
+scipy
 streamlit
 seaborn
 sklearn
