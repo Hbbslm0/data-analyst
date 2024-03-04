@@ -4,4 +4,4 @@ seaborn
 matplotlib
 matplotlib-inline
 streamlit
-scikit-sklearn
+scikit-learn
