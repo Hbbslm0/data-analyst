@@ -3,5 +3,4 @@ numpy
 matplotlib
 streamlit
 seaborn
-KMeans
 sklearn
