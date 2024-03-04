@@ -11,7 +11,7 @@ sns.set(style='dark')
 st.set_option('deprecation.showPyplotGlobalUse', False)
 
 # read data
-data = pd.read_csv('D:/MBKM/analysis_data_project/data/day.csv')
+data = pd.read_csv('/day.csv')
 
 # dashboard title
 st.title("Bike Sharing Data Analysis")
